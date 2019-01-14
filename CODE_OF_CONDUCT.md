@@ -53,9 +53,8 @@ representative at an online or offline event. Representation of a project may be
 further defined and clarified by project maintainers.
 
 Note that each ProtoSchool [chapter](https://proto.school/chapters) also maintains
-its own Code of Conduct. The Porto chapter is organised with the help of
-[OPO.network](https://opo.network), which has its own
-[Code of Conduct](https://opo.network/code-of-conduct).
+its own Code of Conduct and, in this case, the Porto chapter follows
+[OPO.network’s Code of Conduct](https://opo.network/code-of-conduct).
 
 ## Enforcement
 

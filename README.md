@@ -10,7 +10,7 @@ We focus on tools built by [Protocol Labs](https://protocol.ai), but are more th
 
 Join us to learn, to evangelise, or just to get to know us. Everyone is welcome here!
 
-## Organising Team:
+## Organising Team
 
 - **Marco Oliveira**
   - Github: [@marcooliveira](https://github.com/marcooliveira)
@@ -27,3 +27,7 @@ Join us to learn, to evangelise, or just to get to know us. Everyone is welcome 
 ## Contributing
 
 A good starting point is having a look on the issues, we'll be having discussions there about this chapter.
+
+## License
+
+ProtoSchool is licensed under the Apache-2.0 and MIT licenses. See [LICENSE.md](./LICENSE.md) for further detail.
